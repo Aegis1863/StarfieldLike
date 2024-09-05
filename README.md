@@ -4,6 +4,8 @@
 
 `apk` 安装包在 `./pkg/`路径下，可通过 [WearOS工具箱](https://wearosbox.com/) 安装。
 
+开发平台：[WatchFaceStudio](https://developer.samsung.com/watch-face-studio/download.html) 。
+
 # 版本问题
 
 工程文件：
