@@ -34,6 +34,10 @@
 
 <img title="" src="image/Starfiled_for_4_v1.png" alt="loading-ag-133" style="zoom:50%;">
 
+<img src="image/w4_1.png" style="zoom:50%;" />
+
+<img src="image/alwayson_w4.png" style="zoom:50%;" />
+
 ## StarfiledLike_for_5_v1
 
 特色：
