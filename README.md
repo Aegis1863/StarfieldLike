@@ -30,7 +30,7 @@
 
 - 支持五种功能按钮：日历、媒体、设置、短信、电话
 
-<img src="file:///C:/Users/Bowen/Desktop/StarfieldLike_w4_v1/image/Starfiled_for_4_v1.png" style="zoom:50%;" />
+<img title="" src="image/Starfiled_for_4_v1.png" alt="loading-ag-133" style="zoom:50%;">
 
 ## StarfiledLike_for_5_v1
 
@@ -55,4 +55,6 @@
 
 # 支持一下
 
-<img src="image/support.png" style="zoom: 50%;" />
+欢迎star，共同开发，或请我喝杯饮料
+
+<img src="image/support.png" style="zoom: 33%;" />
