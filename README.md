@@ -2,11 +2,11 @@
 
 **本表盘仅在三星 Watch4 上进行测试，其他手表暂未测试**。
 
-`apk` 安装包在 `./pkg/`路径下，可通过 [WearOS工具箱](https://wearosbox.com/) 安装。
+`apk` 安装包在 `./pkg/`路径下，可通过 [WearOS工具箱](https://wearosbox.com/) 安装
 
-开发平台：[WatchFaceStudio](https://developer.samsung.com/watch-face-studio/download.html) 。
+开发平台：[WatchFaceStudio](https://developer.samsung.com/watch-face-studio/download.html) 
 
-[演示视频](https://www.bilibili.com/video/BV1YkHmeKETb)。
+[演示视频](https://www.bilibili.com/video/BV1YkHmeKETb)
 
 # 版本问题
 
