@@ -6,6 +6,8 @@
 
 开发平台：[WatchFaceStudio](https://developer.samsung.com/watch-face-studio/download.html) 。
 
+[演示视频](https://www.bilibili.com/video/BV1YkHmeKETb)。
+
 # 版本问题
 
 工程文件：
