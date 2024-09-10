@@ -10,9 +10,9 @@
 
 工程文件：
 
-- `Starfiled_for_4_v1.wfs`：支持 Watch4 及以上版本手表
+- `StarfiledLike_for_4_v11.wfs`：支持 Watch4 及以上版本手表
 
-- `StarfiledLike_for_5_v1.wfs`：因为调用了天气接口，至少 Watch4 已经不支持了
+- `StarfiledLike_for_5_v12.wfs`：因为调用了天气接口，至少 Watch4 已经不支持了
 
 # 效果图
 
